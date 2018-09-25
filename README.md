@@ -1,4 +1,5 @@
 <script>
+alert("alert check");
 setInterval(function() {
 var otherImport = window.parent.document.getElementById("otherImport");
 if (otherImport && otherImport.import) {
